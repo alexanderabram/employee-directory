@@ -5,7 +5,11 @@ function Header() {
     return (
         <div className="header">
             <h1>Employee Directory</h1>
-            <p>Search for employee by name or use the arrows to sort</p>
+            <p>
+                Use the input box to search for employee by name.
+                <br />
+                Hover over a column head and click the arrow to sort by category.
+            </p>
         </div>
     )
 }
