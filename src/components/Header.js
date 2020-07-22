@@ -9,7 +9,7 @@ function Header() {
             <p>
                 Use the input box to search for employee by name.
                 <br />
-                Hover over a column head and click the arrow to sort by category.
+                Click on a column title to alternate between ascending and descending sorting by category.
             </p>
         </div>
     )
