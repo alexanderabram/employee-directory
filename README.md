@@ -1,7 +1,8 @@
 # Employee Directory
 ![employee-directory](https://user-images.githubusercontent.com/63982568/88123548-b6c03380-cb90-11ea-8190-0d405ec3480c.jpg)
 
-A react application that allows the user to search for employees by name and sort based on column category.
+A react application that allows the user to search for employees by name and sort based on column category.'
+
 
 ##Demo
 ![Employee Directory](https://user-images.githubusercontent.com/63982568/88123764-3817c600-cb91-11ea-9706-c4e16533b2db.gif)
